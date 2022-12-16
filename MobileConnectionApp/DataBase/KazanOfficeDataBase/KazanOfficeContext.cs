@@ -5,7 +5,10 @@ namespace MobileConnectionApp.DataBase.KazanOfficeDataBase
 {
     public class KazanOfficeContext: DbContext
     {
-        public DbSet<User> Users { get; set; } = null!;
+        public DbSet<Sim> Sims { get; set; }
+        public DbSet<Device> Devices { get; set; }
+        public DbSet<Contract> Contracts { get; set; }
+        public DbSet<Receipt> Receipts { get; set; }
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
