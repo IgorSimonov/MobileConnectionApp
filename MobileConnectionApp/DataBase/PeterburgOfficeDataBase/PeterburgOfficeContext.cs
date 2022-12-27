@@ -9,6 +9,8 @@ namespace MobileConnectionApp.DataBase.PeterburgOfficeDataBase
         public DbSet<Device> Devices { get; set; }
         public DbSet<Contract> Contracts { get; set; }
         public DbSet<Receipt> Receipts { get; set; }
+        public DbSet<TypeDevice> TypeDevices { get; set; } = null!;
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseNpgsql("Host=localhost;Port=5202;Database=PeterburgOffice;Username=igor;Password=dota2");

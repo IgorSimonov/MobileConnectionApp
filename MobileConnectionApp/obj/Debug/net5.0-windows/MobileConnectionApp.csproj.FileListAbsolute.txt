@@ -35,5 +35,12 @@ C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-w
 C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.AuthFrom.resources
 C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.csproj.GenerateResource.cache
 C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.MainAdminForm.resources
-C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.MainSaleForm.resources
 C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.MainStockForm.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.SaleForms.SaleMainForm.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.StockForms.StockPhonesView.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.StockForms.AddDeviceFrom.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.StockForms.ChangeSimForm.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.SaleForms.AddClientForm.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.SaleForms.AddReceiptForm.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.SaleForms.AddContractForm.resources
+C:\Users\User\Desktop\MobileConnectionApp\MobileConnectionApp\obj\Debug\net5.0-windows\MobileConnectionApp.SaleForms.AddCallersForm.resources

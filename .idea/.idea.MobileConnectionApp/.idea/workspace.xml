@@ -5,51 +5,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58e99798-d9eb-4b0b-9abe-93b1113be43c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MobileConnectionApp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MobileConnectionApp/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MobileConnectionApp/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/.vs/MobileConnectionApp/FileContentIndex/d1fd8ce7-d26d-4253-8c6a-6139f5d61785.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/.vs/MobileConnectionApp/FileContentIndex/f6dffa14-db60-46f6-bcca-c5adf9750521.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/.vs/MobileConnectionApp/FileContentIndex/read.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/.vs/MobileConnectionApp/v17/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/.vs/ProjectSettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/.vs/VSWorkspaceState.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MobileConnectionApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MobileConnectionApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MobileConnectionApp/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MobileConnectionApp/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MobileConnectionApp/FileContentIndex/05cd7be3-c31f-4dc4-ad3e-af4cc763bb48.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MobileConnectionApp/FileContentIndex/33a3e110-3d27-4aca-a542-31a686e9e7f5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MobileConnectionApp/FileContentIndex/6fdff874-3a9b-4e73-b696-4b6a9d970e24.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MobileConnectionApp/FileContentIndex/aa13be33-2638-43c7-a844-155a706435a8.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MobileConnectionApp/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MobileConnectionApp/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MobileConnectionApp/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MobileConnectionApp/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/mobileconnectionapp.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/mobileconnectionapp.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/mobileconnectionapp.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/mobileconnectionapp.projects.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/AuthForm.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/AuthForm.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/AuthForm.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/AuthForm.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/AuthForm.resx" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/AuthForm.resx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/KazanOfficeDataBase/KazanOfficeContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/KazanOfficeDataBase/KazanOfficeContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/KazanOfficeDataBase/Models/User.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/MainOfficeContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/MainOfficeContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/KazanOfficeDataBase/Models/Device.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/KazanOfficeDataBase/Models/Device.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/KazanOfficeDataBase/Models/Sim.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/KazanOfficeDataBase/Models/Sim.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Caller.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Caller.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Client.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Client.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Contract.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Contract.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Device.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Device.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/MapTarifService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/MapTarifService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Number.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Number.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Receipt.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Receipt.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Sim.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/MainOfficeDataBase/Models/Sim.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/PeterburgOfficeDataBase/Models/Device.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/PeterburgOfficeDataBase/Models/Device.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/PeterburgOfficeDataBase/Models/Sim.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/PeterburgOfficeDataBase/Models/Sim.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/DataBase/PeterburgOfficeDataBase/PeterburgOfficeContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/DataBase/PeterburgOfficeDataBase/PeterburgOfficeContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Form1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Form1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainAdminForm.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainAdminForm.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainAdminForm.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainSaleForm.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainSaleForm.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainSaleForm.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainStockForm.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainStockForm.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MainStockForm.resx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Migrations/20221215195734_InitialCreate.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Migrations/20221215195734_InitialCreate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Migrations/MainOfficeContextModelSnapshot.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MobileConnectionApp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/MobileConnectionApp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/MobileConnectionApp.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/MobileConnectionApp.csproj.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Properties/DataSources/MobileConnectionApp.DataBase.MainOfficeDataBase.MainOfficeContext.datasource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/Properties/DataSources/MobileConnectionApp.DataBase.MainOfficeDataBase.Models.Sim.datasource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/MobileConnectionApp.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/bin/Debug/net5.0-windows/ref/MobileConnectionApp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.MainSaleForm.resources" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.designer.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.designer.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/MobileConnectionApp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/ref/MobileConnectionApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/ref/MobileConnectionApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/refint/MobileConnectionApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/Debug/net5.0-windows/refint/MobileConnectionApp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/MobileConnectionApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/MobileConnectionApp.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/MobileConnectionApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/MobileConnectionApp.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Release/net5.0-windows/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Release/net5.0-windows/MobileConnectionApp.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Release/net5.0-windows/MobileConnectionApp.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Release/net5.0-windows/MobileConnectionApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Release/net5.0-windows/MobileConnectionApp.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/Release/net5.0-windows/MobileConnectionApp.csproj.AssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MobileConnectionApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/MobileConnectionApp/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +121,12 @@
       <updated>1671129268038</updated>
       <workItem from="1671129272567" duration="7345000" />
       <workItem from="1671137198046" duration="38000" />
+      <workItem from="1671158098760" duration="283000" />
+      <workItem from="1671995166452" duration="2266000" />
+      <workItem from="1672008757102" duration="687000" />
+      <workItem from="1672015629091" duration="2282000" />
+      <workItem from="1672075164815" duration="2745000" />
+      <workItem from="1672094358757" duration="1298000" />
     </task>
     <servers />
   </component>

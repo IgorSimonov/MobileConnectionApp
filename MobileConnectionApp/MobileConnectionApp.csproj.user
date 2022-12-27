@@ -4,13 +4,34 @@
     <Compile Update="AuthForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MainAdminForm.cs">
+    <Compile Update="AdminForms\MainAdminForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MainSaleForm.cs">
+    <Compile Update="SaleForms\AddCallersForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="MainStockForm.cs">
+    <Compile Update="SaleForms\AddClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaleForms\AddContractForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaleForms\AddReceiptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaleForms\SaleMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockForms\AddDeviceFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockForms\ChangeSimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockForms\MainStockForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockForms\StockPhonesView.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
